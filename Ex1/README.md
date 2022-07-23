@@ -4,14 +4,14 @@ Problem: Write a Python program to print the following string in a specific form
 
 Example: 
 
-Twinkle, twinkle, little star,
+	Twinkle, twinkle, little star,
 
-	How I wonder what you are! 
+		How I wonder what you are! 
 
-		Up above the world so high,   	
+			Up above the world so high,   	
 
-		Like a diamond in the sky. 
+			Like a diamond in the sky. 
 
-Twinkle, twinkle, little star, 
+	Twinkle, twinkle, little star, 
 
-	How I wonder what you are!
+		How I wonder what you are!
