@@ -12,4 +12,4 @@ is a ....... multi-line
 
 heredoc string --------> example
 
-![Getting Started](./Photos/Capture1.PNG)
+![](2022-07-25-21-39-43.png)
